@@ -6,9 +6,11 @@ Connect your project to midjourney contain generate、upsample、variation
 Support async or query for the generate and action jobs.
 More convenient and stable.
 
+## Use address
+You first need to register an account to use all the interfaces on this api
+https://rapidapi.com/llbbmm/api/midjourney-api6/
+
 ## How to use
-
-
 - If you have any questions, please contact me at 850784744@qq.com and  nb429429@gmail.com
  
 
